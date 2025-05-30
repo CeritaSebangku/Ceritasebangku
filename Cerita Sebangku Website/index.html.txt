@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cerita Sebangku</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Cerita Sebangku</h1>
+    <p>Konseling & Curhat Profesional</p>
+  </header>
+
+  <nav>
+    <a href="#">Beranda</a>
+    <a href="#">Tentang Kami</a>
+    <a href="#">Layanan</a>
+    <a href="#">Kontak</a>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Selamat Datang</h2>
+      <p>Cerita Sebangku adalah ruang aman untuk kamu berbagi cerita dengan psikolog profesional, secara online dan pribadi.</p>
+    </section>
+
+    <section>
+      <h2>Psikolog Kami</h2>
+      <ul>
+        <li>Aura Narendra, S.Psi., M.Psi., Psikolog</li>
+        <li>Rizkyta Tantia Pradini, S.Psi., M.Psi., Psikolog</li>
+        <li>Made Suryaningtyas, S.Psi., M.Psi., Psikolog</li>
+        <li>M. Idham Tamsil, S.Psi., M.Psi., Psikolog</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Hubungi Kami</h2>
+      <p>WhatsApp: <a href="https://wa.me/6289619635953">0896-1963-5953</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cerita Sebangku. All rights reserved.</p>
+  </footer>
+</body>
+</html>
